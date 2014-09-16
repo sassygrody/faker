@@ -153,3 +153,15 @@ en:
       author:
         - "#{Name.name}"
         - "#{Company.name}"
+
+    food:
+      animal: ["pork", "beef", "turkey", "chicken", "duck", "antelope", "capybara", "jackalope"]
+      dessert: ["Apple Pie", "Chocolate Brownie", "Flan", "Pinapple Upsidedown Cake"]
+      produce: ["asparagus", "carrots", "leafy greens", "daikon", "tomatoes", "broccoli", "cauliflower", "strawberries", "bananas", "mangoes"]
+      sauce: ["wine", "tomato", "cream", "cheese", "velveeta", "curry", "alfredo"]
+      description:
+        preparation: ["fresh", "braised", "fried", "grilled", "pan-fried", "microwaved", "medium-rare", "burnt to a crisp", "rare", "well-done"]
+        price: ['per lbs', "an ounce", "each"]
+        adjective: ["elegant", "hearty", "scrumptious", "pungent", "raw", "bloody", "exotic", "succulent", "vivacious", "mouthwatering", "dry", "soupy", "stringy", "greasy", "sour", "sweet", "tart", "bitter"]
+        flavors: ["spicy", "bland", "salty", "sugary", "vinegar", "pickled", "herbacious"]
+
